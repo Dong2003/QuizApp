@@ -28,7 +28,7 @@ Kết quả:
     - Ứng dụng đã hoạt động tốt, dữ liệu được lưu trữ trên firebase, các chức năng hoạt động ổn định.
     - Giảng viên có thẻ tạo bộ câu hỏi dễ dàng và theo dỗi điểm của học sinh tham gia làm bài.
 - Hạn chế:
-    - Về giao diện chưa được tối ưu hóa nên chạy hơi chậm.
+    - Về giao diện chưa được tối ưu hóa nên chạy chậm.
 
 Liên hệ:
 
